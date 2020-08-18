@@ -46,7 +46,7 @@ while p<=2:
         r=r+1
         vector_new[p]=sum2
     p=p+1
-print('The value of A X M is: ' )
+print('The value of V cross vector1 is: ' )
 print(vector_new)
 
 

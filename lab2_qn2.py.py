@@ -1,4 +1,4 @@
-#dot product and cross product
+#dot product and addition
 
 #define your own vector
 vector1=[5,6,1]
@@ -29,3 +29,14 @@ while j<=2:
     sumdot=sumdot + dot
     j=j+1
 print('The dot product of the two matrices is: '+ str(sumdot))
+
+/*
+the given vectors are: 
+[5, 6, 1]
+[2, 8, 9]
+The resultant vector after addition is: 
+[7, 14, 10]
+The dot product of the two matrices is: 67
+
+
+*/

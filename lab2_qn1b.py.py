@@ -41,3 +41,10 @@ print('The total distances between any two points in the matrix is ' + str(final
 avg=final/(36*36)
 print('The average distance between any two points in the matrix is ' + str(avg))
 
+"""
+The total distances between any two points in the matrix is 5040
+The average distance between any two points in the matrix is 3.888888888888889
+
+
+"""
+

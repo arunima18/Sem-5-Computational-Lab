@@ -130,7 +130,7 @@ MyReadFile2.close();
         }
         i=i+1;
     }
-    cout<<cross[0][1]<<endl;
+    //cout<<cross[0][1]<<endl;
     
     int m=1;
     int n=1;
@@ -177,6 +177,6 @@ MyReadFile2.close();
 
 /* The entry of A cross B from C11,C12....C33 is as: 
 37,32,37,62,84,93,54,74,69,
-The components of the vector M cross A is: 
+The components of the vector A cross vector1 is: 
 23,36,21, 
 Exit code: 0 (normal program termination) */

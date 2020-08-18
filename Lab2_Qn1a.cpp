@@ -3,7 +3,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-
+//draw the points for reference
 int arr[]={1,2,3,4,5,6};
 
 int i=1;
@@ -16,14 +16,14 @@ while (i<6)
         {
             
             d=d+ abs(i-j)+ abs(j-i);
-            //cout<<"***"<<d<<endl;
+        
             j=j+1;
         }
         i=i+1;
     }
 cout<<d<<endl;
 float final=d/36;
-cout<<final<<endl;
+cout<<'The average distance between any two points is: '<<final<<endl;
 return 0;
 }
 

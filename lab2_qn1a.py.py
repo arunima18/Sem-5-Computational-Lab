@@ -15,5 +15,11 @@ while i<=6:
 avg=d/(6*6)
 print(arr)
 print('The average distance between any two pints in this array is ' + str(avg))
+
+/*{1, 2, 3, 4, 5, 6}
+The average distance between any two pints in this array is 1.9444444444444444
+
+
+*/
     
 

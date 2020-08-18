@@ -21,9 +21,9 @@ while (i<6)
         }
         i=i+1;
     }
-cout<<d<<endl;
+cout<<"The total distance between two points is: "<<d<<endl;
 float final=d/36;
-cout<<'The average distance between any two points is: '<<final<<endl;
+cout<<"The average distance between any two points is: "<<final<<endl;
 return 0;
 }
 

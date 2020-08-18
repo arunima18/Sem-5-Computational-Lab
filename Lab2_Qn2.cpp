@@ -42,6 +42,16 @@ int main()
     
     return 0;
 }
+
+/*The resultant added vector is: 
+5
+7
+9
+
+The dot product of the two vectors is: 32
+
+
+*/
     
 
 

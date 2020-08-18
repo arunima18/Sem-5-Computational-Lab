@@ -48,3 +48,17 @@ while p<=2:
     p=p+1
 print('The value of A X M is: ' )
 print(vector_new)
+
+
+"""C:\pythonProject7\Scripts\python.exe "C:/Users/Arunima Das/PycharmProjects/pythonProject7/main.py"
+The two given matrices are:
+[[1, 2, 3], [5, 5, 6], [6, 9, 7]]
+[[1, 2, 3], [5, 5, 6], [6, 9, 7]]
+The final matrix after cross product is:
+[[29, 39, 36], [66, 89, 87], [93, 120, 121]]
+[[1, 2, 3], [5, 5, 6], [6, 9, 7]]
+The value of A X M is:
+[20, 61, 91]
+
+Process finished with exit code 0
+"""

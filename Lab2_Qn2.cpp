@@ -1,3 +1,5 @@
+//Addition and dot product of two vectors
+
 #include<iostream>
 using namespace std;
 int main()
@@ -16,10 +18,11 @@ int main()
     }
     //Printing the sum
     int j=0;
+    cout<<"The resultant added vector is: "<<endl;
     
     while (j<=2)
     {
-        cout<<sum[j];
+        cout<<sum[j]<<endl;
         j=j+1;
     }
     
@@ -33,7 +36,7 @@ int main()
         k=k+1;
     }
     cout<<endl;
-    cout<<dot<<endl;
+    cout<<"The dot product of the two vectors is: "<<dot<<endl;
         
     
     

@@ -51,6 +51,11 @@ int main()
     
     return 0;
 }
+
+/*The average distance between any two points is: 3.88889
+
+
+*/
     
 
 

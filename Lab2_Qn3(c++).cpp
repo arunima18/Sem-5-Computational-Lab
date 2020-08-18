@@ -218,6 +218,18 @@ int main()
     return 0; 
     
     
+     /*
+   The entries of the first matrix are...
+5,2,8,9,7,6,7,8,9,
+The entries of the second matrix are...
+1,2,6,8,5,6,2,8,1,
+The entry of Arr1 cross Arr2 in the form C11,C12....C33 is as: 
+37,84,50,77,101,102,89,126,99,
+The components of the vector Arr1 cross vector1 is: 
+33,41,50, */
+
+    
+    
     
     
    

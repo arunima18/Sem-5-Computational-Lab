@@ -26,5 +26,11 @@ float final=d/36;
 cout<<"The average distance between any two points is: "<<final<<endl;
 return 0;
 }
+\*
+The total distance between two points is: 70
+The average distance between any two points is: 1.94444
+
+
+*\
 
 
